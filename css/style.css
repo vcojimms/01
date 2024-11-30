@@ -70,7 +70,8 @@ body {
 h1,
 h2 {
   font-family: 'Playfair Display', serif;
-  color:grey;
+  text-align:center;
+  backdrop-filter:blur(20px);
 }
 
 /*header section*/
